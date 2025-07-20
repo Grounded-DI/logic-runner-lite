@@ -1,0 +1,25 @@
+**Grounded DI LLC**
+**Date:** July 19, 2025
+
+DI LogicRunner Lite – License Terms (Free Demo) 
+
+This software is released as a **public demo** of Grounded DI LLC's Deterministic Intelligence Logic Runner Lite 
+(equivalent to an Agent in probabilistic models).
+
+Terms:
+- You may use, explore, and test this package freely for 10 days from activation.
+- You may not redistribute modified versions, claim authorship, or use this in commercial applications without written permission.
+- This version is provided "as-is" with no warranty or guarantee of performance beyond the safe demo environment.
+
+To request extended use, licensing terms, or full access to the deterministic engine:
+📧 Email: contact@groundeddi.ai
+
+Thank you for exploring deterministic intelligence.
+
+#deterministicIntelligence
+#LogicRunnerLite
+#dia
+#agdi
+#GroundedDI
+
+**Logic Runners / agents and associated systems are protected by patent filings**

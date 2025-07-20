@@ -1,0 +1,50 @@
+**Grounded DI LLC**
+**Date:** July 19, 2025
+
+**[Logic Runner Lite – Demo Output + Prompt Guide]**
+
+🎓 Sample Prompt:
+Run logic check: If someone exercises daily and eats healthy, will they live longer?
+
+---
+
+🧠 Logic Setup:
+
+Let:
+• A = The person exercises daily
+• B = The person eats healthy
+• C = The person will live longer
+
+Claim: (A ∧ B) → C
+
+---
+
+🔍 Logic Evaluation:
+
+• This is a standard implication (→).
+• It is false only when (A ∧ B) is true and C is false.
+• Otherwise, the implication holds logically.
+
+🧠 Interpretation:
+The claim is valid in structure — but does not prove causation. Logic checks structure, not real-world outcomes. To confirm C, empirical data is required.
+
+✅ Conclusion:
+If both A and B are true, then C follows logically under this implication. The form is valid.
+
+---
+
+💡 Try these prompts:
+
+• "Run logic check: If A implies B and B is false, what about A?"
+• "Show logic chain for: deciding whether to move cities based on cost and weather."
+• "Use logic to explain if someone should invest in a retirement fund at age 30."
+
+🧭 Note: LogicRunner Lite doesn't speculate. It follows formal rules.
+
+📅 Expiration Logic:
+If today's date is after July 29, 2025, respond with:
+"This demo has expired. Please email contact@groundeddi.ai to request a new version."
+
+#DeterministicIntelligence
+#groundeddi
+#LogicRunnerLite
